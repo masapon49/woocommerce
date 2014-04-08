@@ -1927,7 +1927,7 @@ msgstr "京都府"
 
 #: i18n/states/JP.php:39
 msgid "Osaka"
-msgstr "大坂府"
+msgstr "大阪府"
 
 #: i18n/states/JP.php:40
 msgid "Hyougo"
@@ -1955,7 +1955,7 @@ msgstr "岡山県"
 
 #: i18n/states/JP.php:46
 msgid "Hiroshima"
-msgstr "広島件"
+msgstr "広島県"
 
 #: i18n/states/JP.php:47
 msgid "Yamaguchi"
